@@ -1,3 +1,4 @@
+// Feather ignore all
 /// @param {Id.instance}	instance
 /// @param {String}			name
 /// @param {Bool}			[desactivate?]

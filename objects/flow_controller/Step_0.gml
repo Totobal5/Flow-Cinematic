@@ -1,4 +1,5 @@
 /// @description [END SEQUENCE]
+// Feather ignore all
 if (checkActors) {
 	// Obtener
 	sequenceActiveTracks = sequenceInstance.activeTracks; 

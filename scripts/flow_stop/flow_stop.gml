@@ -1,4 +1,6 @@
+// Feather ignore all
 /// @context {flow_controller}
+/// @desc Pausa la sequencia actual
 function flow_stop() 
 {	
 	if (layer_sequence_exists(layer, sequenceElement) ) 

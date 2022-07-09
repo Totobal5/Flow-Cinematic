@@ -1,3 +1,4 @@
+// Feather ignore
 #macro FLOW_DEFAULT_XOFFSET room_width  / 2
 #macro FLOW_DEFAULT_YOFFSET room_height / 2
 

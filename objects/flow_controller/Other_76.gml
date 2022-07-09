@@ -1,3 +1,4 @@
+// Feather ignore all
 /// @description [EXECUTE MESSAGES]
 if (event_data[? "event_type"] == "sequence event") {
 	var _message = event_data[? "message"];

@@ -1,5 +1,5 @@
 /// @description [VARIABLES FOR FLOW]
-function flow_init_actor()
+function flow_activate()
 {
 	flowActor = true;
 	

@@ -1,3 +1,4 @@
+/// @desc Resume la sequencia actual
 function flow_resume() 
 {
 	if (!layer_sequence_exists(layer, sequenceElement) ) 

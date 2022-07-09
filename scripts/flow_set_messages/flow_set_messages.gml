@@ -1,4 +1,9 @@
-function flow_set_messages() {
+// Feather ignore all
+/// @desc Crea mensajes con sus funciiones
+/// @param {String}	message
+/// @param {Function} function
+function flow_set_messages() 
+{
 	var i=0; repeat( (argument_count - 1) div 2) {
 		var _msg = argument[i];
 		var _met = argument[i + 1];

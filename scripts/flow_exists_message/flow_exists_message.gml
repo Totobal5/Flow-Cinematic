@@ -1,3 +1,4 @@
+/// @desc Cumprueba si un mensaje existe
 /// @param message
 /// @return {Bool}
 function flow_exists_message(_msg) 
